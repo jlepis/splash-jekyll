@@ -2,23 +2,25 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Joseph C. Lepis'
+description: 'I build software teams.'
 
 # Images
-avatar: 'avatar.jpg'
-background: 'background.jpg'
+# avatar: 'avatar.jpg'
+avatar: 'headshot.png'
+# background: 'background.jpg'
+background: 'splash.png'
 favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
-instagram: 'myinsta'
+# facebook: 'myfacebook'
+# twitter: 'mytwitter'
+linkedin: 'joseph-c-lepis'
+# instagram: 'myinsta'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+# youtube: 'myyoutube'
+github-user: 'jlepis'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -27,15 +29,15 @@ github-user: 'mygithub'
 #stack-overflow: ''
 #reddit: ''
 #rubygems: ''
-#medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+medium:  'jcl2007'
+# tumblr: 'mytumblr'
+# weibo: 'myweibo'
+# vk: 'myvk'
+# blog_url: 'myblog.blog.com'
+email: 'jlepis2010@gmail.com'
+# messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, linkedin, medium, email]
 
 # Yaml manifest of supported social links
 # Requirements:
